@@ -13,6 +13,11 @@ size = "go 300kmph"
 alert(size)
 alert(age)
 let job = {title:"developer", place:"new york"}
+let go = ["ood", "poo"]
+alert(go[0])
+let joon = {goo:"Tra", tt:"ktk"}
+alert(joon.goo)
+
 
 
 
